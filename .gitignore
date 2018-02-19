@@ -1,0 +1,6 @@
+/AvanteamLdapConnexion/obj
+/AvanteamLdapConnexion/bin/Debug
+/packages/FluentCommandLineParser.1.4.3/lib
+/.vs/AvanteamLdapConnexion/v14/*.suo
+/AvanteamLdapConnexion/*.user
+/packages
